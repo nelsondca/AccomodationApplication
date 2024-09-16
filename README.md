@@ -1,7 +1,7 @@
 # AccomodationApplication
 (reminder, the code is incomplete)
 
-#Overall, this code provides a basic framework for managing accommodation data through a console interface. Users can add, delete, and view accommodation records andgenerate a report of all accommodations. It uses a linked list to store the data and file I/O
+#Overall, this code provides a basic framework for managing accommodation data through a console interface. Users can add, delete, and view accommodation records and generate a report of all accommodations. It uses a linked list to store the data and file I/O
 to save and load data between program runs.
 
 #C module Final Project
