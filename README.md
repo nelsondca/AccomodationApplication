@@ -1,11 +1,11 @@
-# AccomodationApplication
-(reminder, the code is incomplete)
-
-#Overall, this code provides a basic framework for managing accommodation data through a console interface. Users can add, delete, and view accommodation records and generate a report of all accommodations. It uses a linked list to store the data and file I/O
-to save and load data between program runs.
+#AccomodationApplication
+(reminder, the application is incomplete)
 
 #C module Final Project
 Console-based Application for managing/booking and storing information about accommodations()
+
+#Overall, this code provides a basic framework for managing accommodation data through a console interface. Users can add, delete, and view accommodation records and generate a report of all accommodations. It uses a linked list to store the data and file I/O
+to save and load data between program runs.
 
 #The 'login' structure stores username and password details, which the program should read from the file, and if it's correct you have admin access where you can manage the accommodations stored in the program, if not use the application as a normal user.
 #The 'acc' structure represents all the accommodation details(ID, owner's name, year built, etc. ) and a reference to the next node (for creating a linked list).
